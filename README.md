@@ -1,4 +1,3 @@
-
 # Predictive Modeling for Housing Prices
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
@@ -8,11 +7,11 @@ Predictive modeling project for predicting housing prices using advanced data pr
 
 ## Overview
 
-This repository contains code and resources for implementing predictive models to estimate housing prices based on various features including location, type, and amenities. The project focuses on optimizing data preprocessing using dummy variable elimination and `OneHotEncoder` from `scikit-learn` to enhance model accuracy.
+This repository contains code and resources for implementing predictive models to estimate housing prices based on various features including location, type, and amenities. The project focuses on optimizing data preprocessing using dummy variable elimination and ![OneHotEncoder](https://img.shields.io/badge/OneHotEncoder-scikit--learn-orange) from ![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.2-blue) to enhance model accuracy.
 
 ## Key Features
 
-- **Data Preprocessing**: Utilizes `OneHotEncoder` to transform categorical variables into numerical format.
+- **Data Preprocessing**: Utilizes ![OneHotEncoder](https://img.shields.io/badge/OneHotEncoder-scikit--learn-orange) to transform categorical variables into numerical format.
 - **Model Building**: Implements machine learning models to predict housing prices based on preprocessed data.
 - **Performance Evaluation**: Evaluates model performance using metrics such as RMSE and R-squared.
 - **Real-World Application**: Demonstrates the application of predictive models in a practical housing market scenario.
